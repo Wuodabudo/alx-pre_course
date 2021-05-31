@@ -2,6 +2,8 @@
 **version 1.0.0**
 
 this reame is for ALX Software Engineering program.
+this are my first codes on github
+
  
  ---
  
